@@ -1,0 +1,10 @@
+#white_bg{width:150%;background-color:rgba(255,255,255,0.8);margin-left:-250px;padding-left:300px;}
+#stage{width:1020px;height:300px;margin-bottom:120px;}
+#upperStage{height:68%;width:100%;}
+#lower_stage{margin:2% 0 0 0;height:32%;width:100%;}
+.ball{float:left;width:200px;height:200px;border:20px solid;z-index:3;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;behavior:url('pie/PIE.php');}
+.b_arrow{position:relative;float:right;width:50px;height:50px;margin:-25px auto;background-color:#000;right:-20%;top:50%;transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);-sand-transform:rotate(45deg);z-index:2;}
+.b_text{float:left;position:relative;height:50px;width:100px;text-align:center;top:70%;margin:-50px 0 0 25px;z-index:1;}
+.b_points{height:100%;float:left;margin:0px 27px;font-size:0.9em!important;}
+#b_play{display:block;position:absolute;width:200px;height:200px;line-height:200px;background-color:rgb(151, 98, 98);-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;text-align:center;behavior:url('pie/PIE.php');z-index:9;left:300px;color:#fff;}
+#b_replay{display:block;position:absolute;width:50px;height:50px;line-height:50px;background-color:rgb(151, 98, 98);-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;text-align:center;behavior:url('pie/PIE.php');z-index:9;font-size:0.9em!important;color:#fff;}

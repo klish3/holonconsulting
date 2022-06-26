@@ -1,0 +1,113 @@
+/* ==============================================
+	Orange Color Skin - Avatar
+=============================================== */
+
+/* Selection Background Color */
+::-moz-selection {
+ 	background: #ff6e00;
+ 	color: #fff;
+}
+::selection {
+	background: #ff6e00;
+	color: #fff;
+}
+
+/* Logo - Orange */
+.logo-top > .orange,
+.under-construction .orange,
+.navbar-header .orange {display: block !important;}
+.logo-top > .default,
+.under-construction .default,
+.navbar-header .default {display: none !important;}
+
+/* Background Color */
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.nav > li > a:hover, .nav > li > a:focus,
+a.btn-style-one,
+.av-service .av-service-icon .av-icon:after,
+.center-point,
+.counter-wrap:hover .counter-icon i,
+#testi-slider .owl-controls .owl-page.active span,
+.catfilter a.current,
+#port-items .carousel-control.closing,
+input.submit,
+.app-features-right:hover .app-icon .fa:after,
+.app-features-left:hover .app-icon .fa:after,
+a.btn-style-three, #ebook-banner,
+.av-service-one:hover .av-service-icon .av-icon:after,
+table thead th, .nf-box,
+.category-list a.cat-item:hover .badge,
+.post-pagination li.current a, .post-pagination li a:hover,
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+a.btn-style-five,
+.table-style-three,
+.table-style-three table thead th,
+a.next-post:hover, a.prev-post:hover,
+.contact-navmenu-icon.current {
+	background-color: #ff6e00;
+}
+/* Background Color Important */
+.options-head, .demos li a {
+	background-color: #ff6e00 !important;
+}
+
+/* Text Color */
+a,
+.navbar-default .navbar-nav > li > a.current,
+.counter-letters,
+#port-items .carousel-control:hover,
+.navbar-default .navbar-nav > li > a:hover,
+.dropdown-menu > li > a:hover,
+.valuein, .book-chapters tr td:nth-child(3n+3),
+.category-list a.cat-item:hover, .category-list a.cat-item:hover:before,
+.post-meta i, .panel-default > .panel-heading a,
+.pricing-head .plan-price,
+ul.list-one li:before,
+ul.list-two li:before,
+ul.list-three li:before,
+ul.list-four li:before,
+.table-style-one a,
+.table-style-two a,
+.table-style-four table thead th {
+	color: #ff6e00;
+}
+/* Text Color Important */
+.corner i {
+	color: #ff6e00 !important;
+}
+
+/* Border Color */
+#testi-slider .owl-controls .owl-page.active span,
+.table-style-one, .table-style-two table thead th {
+	border-color: #ff6e00;
+}
+
+/* Background Transparent */
+.phone-info {
+	background: rgba(255, 110, 0, 0.2);
+}
+.pricing-table:hover .pricing-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Other Minor Change Classes */
+.av-service:hover .av-service-icon .av-icon,
+.app-features-right:hover .app-icon .fa,
+.app-features-left:hover .app-icon .fa,
+.av-service-one:hover .av-service-icon .av-icon {
+	-webkit-box-shadow: 0 0 0 3px #ff6e00;
+	-moz-box-shadow: 0 0 0 3px #ff6e00;
+	-ms-box-shadow: 0 0 0 3px #ff6e00;
+	-o-box-shadow: 0 0 0 3px #ff6e00;
+	box-shadow: 0 0 0 3px #ff6e00;
+}
+.avatar-styling li {background: transparent url('../../images/avatar-bullet-orange.png') no-repeat 0 20px;}
+.contact-navmenu-icon {background-color: #ddd;}
+.contact-nav-wrap .contact-navmenu-icon:hover,
+.contact-nav-wrap .contact-navmenu-icon:active {background-color: #ff6e00 !important;}
+.contact-nav-wrap .contact-navmenu-icon:focus {background: url('../../images/contact-icon-bg-outter.png') no-repeat #ff6e00 !important;}
+.hash {color: #fff !important;}
+
